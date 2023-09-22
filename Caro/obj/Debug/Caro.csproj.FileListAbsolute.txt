@@ -1,0 +1,17 @@
+D:\VSCode\Caro\Caro\bin\Debug\Caro.exe.config
+D:\VSCode\Caro\Caro\bin\Debug\Caro.exe
+D:\VSCode\Caro\Caro\bin\Debug\Caro.pdb
+D:\VSCode\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+D:\VSCode\Caro\Caro\obj\Debug\Caro.FormLogin.resources
+D:\VSCode\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+D:\VSCode\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+D:\VSCode\Caro\Caro\obj\Debug\Caro.exe
+D:\VSCode\Caro\Caro\obj\Debug\Caro.pdb
+D:\VSCode\Caro\Caro\obj\Debug\Caro.FormDangky.resources
+D:\VSCode\Caro\Caro\obj\Debug\Caro.Banco.resources
+D:\VSCode\Caro\Caro\obj\Debug\Caro.Main.resources
+D:\VSCode\Caro\Caro\obj\Debug\Caro.Login2.resources
+D:\VSCode\Caro\Caro\obj\Debug\Caro.Luatchoi.resources
+C:\Users\phanb\OneDrive\Máy tính\Study\Niên Luận Cơ Sở KTPM K44\Nộp ClassRoom\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\phanb\OneDrive\Máy tính\Study\Niên Luận Cơ Sở KTPM K44\Nộp ClassRoom\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\phanb\OneDrive\Máy tính\Study\Niên Luận Cơ Sở KTPM K44\Nộp ClassRoom\Caro\Caro\obj\Debug\Caro.pdb
